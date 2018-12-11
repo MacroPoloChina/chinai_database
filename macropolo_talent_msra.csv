@@ -1,34 +1,34 @@
-﻿person_id,year,phd_institution,phd_region,phd_city,phd_coor_1,phd_coor_2,first_job,first_job_region,first_job_city,first_job_coor_1,first_job_coor_2,current_job,current_job_region,current_job_city,current_job_coor_1,current_job_coor_2,,
-1,2009,Tsinghua University,China,Beijing,39.9041999,116.4073963,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963,,
-2,2010,Peking University,China,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,,
-7,2010,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963,"University of Texas, San Antonio",US,"San Antonio, US",40.4406248,-79.9958864,Peking University,China,Beijing,39.9041999,116.4073963,,
-8,2010,Peking University,China,Beijing,39.9041999,116.4073963,Microsoft,US,"Seattle, US",47.6062095,-122.3320708,Fintopia,China,Beijing,39.9041999,116.4073963,,
-31,2009,Tsinghua University,China,Beijing,39.9041999,116.4073963,CITIC,China,Beijing,39.9041999,116.4073963,Tianfeng Securities,China,Beijing,39.9041999,116.4073963,,
-3,2009,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,"Institute of Information Engineering, CAS",China,Beijing,39.9041999,116.4073963,Baidu,China,Beijing,39.9041999,116.4073963,,
-4,2009,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Nokia,Finland,Beijing,39.9041999,116.4073963,Bytedance,China,Beijing,39.9041999,116.4073963,,
-5,2010,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,,
-6,2010,Shanghai Jiao Tong University,China,Shanghai,31.2303904,121.4737021,Carnegie Mellon University,US,"Pittsburgh, US",40.4406248,-79.9958864,CNCERT,China,Beijing,39.9041999,116.4073963,,
-9,2009,Beihang University,China,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Bellevue,47.6101497,-122.2015159,,
-32,2010,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Harbin Institute of Technology,China,"Harbin, China",45.803775,126.534967,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,,
-10,2009,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Microsoft Research,US,Beijing,39.9041999,116.4073963,University of Science and Technology of China,China,Hefei,31.820591,117.227219,,
-33,2010,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,,
-11,2010,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Microsoft,US,"Seattle, US",47.6062095,-122.3320708,Google,US,Kirkland,47.6768927,-122.2059833,,
-12,2009,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Microsoft Research,US,Beijing,39.9041999,116.4073963,Facebook,US,Menlo Park,37.4529598,-122.1817252,,
-13,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,"University of California, San Francisco",US,"San Francisco, US",37.7749295,-122.4194155,Samsung,Korea,Mountainview,37.3860517,-122.0838511,,
-17,2010,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Nanyang Technological University,Singapore,Singapore,1.3644337,103.7752634,Southeast University,China,Nanjing,32.060255,118.796877,,
-14,2010,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877,,
-15,2009,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877,,
-16,2009,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877,,
-18,2009,Peking University,China,Beijing,39.9041999,116.4073963,"University of California, Berkeley",US,Berkeley,37.8715926,-122.272747,University of Texas at San Antonio,US,San Antonio,40.4406248,-79.9958864,,
-20,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,Pine River Capital Management,US,"New York City, US",40.7127753,-74.0059728,Google,US,San Francisco,37.7749295,-122.4194155,,
-19,2009,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Columbia University,US,"New York City, US",40.7127753,-74.0059728,Netflix,US,San Francisco,37.7749295,-122.4194155,,
-21,2010,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,UIUC,US,"Champaign County, Illinois",40.1019523,-88.2271615,Cisco Meraki,US,San Francisco,37.7749295,-122.4194155,,
-22,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,The University of British Columbia,Canada,"Vancouver, Canada",49.2827291,-123.1207375,Snap,US,Santa Monica,34.0194543,-118.4911912,,
-24,2009,Hong Kong University of Science and Technology,Hong Kong,Hong Kong,22.396428,114.109497,Hong Kong University of Science and Technology,Hong Kong,Hong Kong,22.396428,114.109497,Snap,US,Seattle,47.6062095,-122.3320708,,
-23,2009,National Chiao Tung University,Taiwan,Hsinchu,22.396428,114.109497,Mediatek,Taiwan,"Hsinchu, Taiwan",22.396428,114.109497,Alibaba,China,Seattle,47.6062095,-122.3320708,,
-25,2010,Shanghai Jiao Tong University,China,Shanghai,31.2303904,121.4737021,McGill University,Canada,"Montreal, Canada",45.516115,-73.561715,Shanghai Jiaotong University,China,Shanghai,31.2303904,121.4737021,,
-26,2009,Beijing Institute of Technology,China,Beijing,39.9041999,116.4073963,Northeastern University,China,"Shenyang, China",41.805699,123.431472,Northeastern University,China,Shenyang,41.805699,123.431472,,
-27,2010,Nanjing University,China,Nanjing,32.060255,118.796877,Dell EMC,US,Shanghai,31.2303904,121.4737021,Penn State University,US,State College,40.8072337,-77.8608888,,
-28,2010,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,Academia Sinica,Taiwan,"Taipei, Taiwan",25.0329694,121.5654177,National Cheng Kung University,Taiwan,Tainan,22.9997281,120.2270277,,
-29,2009,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,Taiwan User Experience Professional Association,Taiwan,"Taipei, Taiwan",25.0329694,121.5654177,iKala Global Online Corp.,Taiwan,Taipei,25.0329694,121.5654177,,
-30,2010,The University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,The University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Huazhong University of Science and Technology,China,Wuhan,30.592849,114.305539,,
+﻿person_id,year,phd_institution,phd_region,phd_city,phd_coor_1,phd_coor_2,first_job,first_job_region,first_job_city,first_job_coor_1,first_job_coor_2,current_job,current_job_region,current_job_city,current_job_coor_1,current_job_coor_2
+1,2009,Tsinghua University,China,Beijing,39.9041999,116.4073963,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963
+2,2010,Peking University,China,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963
+3,2009,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,"Institute of Information Engineering, CAS",China,Beijing,39.9041999,116.4073963,Baidu,China,Beijing,39.9041999,116.4073963
+4,2009,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Nokia,Finland,Beijing,39.9041999,116.4073963,Bytedance,China,Beijing,39.9041999,116.4073963
+5,2010,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963
+6,2010,Shanghai Jiao Tong University,China,Shanghai,31.2303904,121.4737021,Carnegie Mellon University,US,"Pittsburgh, US",40.4406248,-79.9958864,CNCERT,China,Beijing,39.9041999,116.4073963
+7,2010,"Institute of Computing Technology, Chinese Academy of Sciences",China,Beijing,39.9041999,116.4073963,"University of Texas, San Antonio",US,"San Antonio, US",40.4406248,-79.9958864,Peking University,China,Beijing,39.9041999,116.4073963
+8,2010,Peking University,China,Beijing,39.9041999,116.4073963,Microsoft,US,"Seattle, US",47.6062095,-122.3320708,Fintopia,China,Beijing,39.9041999,116.4073963
+9,2009,Beihang University,China,Beijing,39.9041999,116.4073963,Microsoft,US,Beijing,39.9041999,116.4073963,Microsoft,US,Bellevue,47.6101497,-122.2015159
+10,2009,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Microsoft Research,US,Beijing,39.9041999,116.4073963,University of Science and Technology of China,China,Hefei,31.820591,117.227219
+11,2010,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Microsoft,US,"Seattle, US",47.6062095,-122.3320708,Google,US,Kirkland,47.6768927,-122.2059833
+12,2009,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Microsoft Research,US,Beijing,39.9041999,116.4073963,Facebook,US,Menlo Park,37.4529598,-122.1817252
+13,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,"University of California, San Francisco",US,"San Francisco, US",37.7749295,-122.4194155,Samsung,Korea,Mountainview,37.3860517,-122.0838511
+14,2010,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877
+15,2009,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877
+16,2009,Nanjing University,China,Nanjing,32.060255,118.796877,Nanjing University,China,"Nanjing, China",32.060255,118.796877,Nanjing University,China,Nanjing,32.060255,118.796877
+17,2010,University of Science and Technology of China,China,Hefei,31.820591,117.227219,Nanyang Technological University,Singapore,Singapore,1.3644337,103.7752634,Southeast University,China,Nanjing,32.060255,118.796877
+18,2009,Peking University,China,Beijing,39.9041999,116.4073963,"University of California, Berkeley",US,Berkeley,37.8715926,-122.272747,University of Texas at San Antonio,US,San Antonio,40.4406248,-79.9958864
+19,2009,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Columbia University,US,"New York City, US",40.7127753,-74.0059728,Netflix,US,San Francisco,37.7749295,-122.4194155
+20,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,Pine River Capital Management,US,"New York City, US",40.7127753,-74.0059728,Google,US,San Francisco,37.7749295,-122.4194155
+21,2010,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,UIUC,US,"Champaign County, Illinois",40.1019523,-88.2271615,Cisco Meraki,US,San Francisco,37.7749295,-122.4194155
+22,2010,Tsinghua University,China,Beijing,39.9041999,116.4073963,The University of British Columbia,Canada,"Vancouver, Canada",49.2827291,-123.1207375,Snap,US,Santa Monica,34.0194543,-118.4911912
+23,2009,National Chiao Tung University,Taiwan,Hsinchu,22.396428,114.109497,Mediatek,Taiwan,"Hsinchu, Taiwan",22.396428,114.109497,Alibaba,China,Seattle,47.6062095,-122.3320708
+24,2009,Hong Kong University of Science and Technology,Hong Kong,Hong Kong,22.396428,114.109497,Hong Kong University of Science and Technology,Hong Kong,Hong Kong,22.396428,114.109497,Snap,US,Seattle,47.6062095,-122.3320708
+25,2010,Shanghai Jiao Tong University,China,Shanghai,31.2303904,121.4737021,McGill University,Canada,"Montreal, Canada",45.516115,-73.561715,Shanghai Jiaotong University,China,Shanghai,31.2303904,121.4737021
+26,2009,Beijing Institute of Technology,China,Beijing,39.9041999,116.4073963,Northeastern University,China,"Shenyang, China",41.805699,123.431472,Northeastern University,China,Shenyang,41.805699,123.431472
+27,2010,Nanjing University,China,Nanjing,32.060255,118.796877,Dell EMC,US,Shanghai,31.2303904,121.4737021,Penn State University,US,State College,40.8072337,-77.8608888
+28,2010,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,Academia Sinica,Taiwan,"Taipei, Taiwan",25.0329694,121.5654177,National Cheng Kung University,Taiwan,Tainan,22.9997281,120.2270277
+29,2009,National Taiwan University,Taiwan,Taipei,25.0329694,121.5654177,Taiwan User Experience Professional Association,Taiwan,"Taipei, Taiwan",25.0329694,121.5654177,iKala Global Online Corp.,Taiwan,Taipei,25.0329694,121.5654177
+30,2010,The University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,The University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Huazhong University of Science and Technology,China,Wuhan,30.592849,114.305539
+31,2009,Tsinghua University,China,Beijing,39.9041999,116.4073963,CITIC,China,Beijing,39.9041999,116.4073963,Tianfeng Securities,China,Beijing,39.9041999,116.4073963
+32,2010,Harbin Institute of Technology,China,Harbin,45.803775,126.534967,Harbin Institute of Technology,China,"Harbin, China",45.803775,126.534967,Harbin Institute of Technology,China,Harbin,45.803775,126.534967
+33,2010,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497,Chinese University of Hong Kong,Hong Kong,Hong Kong,22.396428,114.109497
