@@ -1,0 +1,149 @@
+,name,author_number,total,contribution
+0,Aviv Tamar,5,1,0.2
+1,Sergey Levine,5,1,0.2
+2,Pieter Abbeel,5,1,0.2
+3,YI WU,5,1,0.2
+4,Garrett Thomas,5,1,0.2
+5,Justin Eldridge,3,1,0.3333333333333333
+6,Mikhail Belkin,3,1,0.3333333333333333
+7,Yusu Wang,3,1,0.3333333333333333
+8,Yujia Shen,3,1,0.3333333333333333
+9,Arthur Choi,3,1,0.3333333333333333
+10,Adnan Darwiche,3,1,0.3333333333333333
+11,Aurko Roy,2,1,0.5
+12,Sebastian Pokutta,2,1,0.5
+13,Eugene Belilovsky,3,1,0.3333333333333333
+14,Gaël Varoquaux,3,1,0.3333333333333333
+15,Matthew B Blaschko,3,1,0.3333333333333333
+16,Hassan Ashtiani,3,1,0.3333333333333333
+17,Shrinu Kushagra,3,1,0.3333333333333333
+18,Shai Ben-David,3,1,0.3333333333333333
+19,Kiarash Shaloudegi,4,1,0.25
+20,András György,4,1,0.25
+21,Csaba Szepesvari,4,1,0.25
+22,Wilsun Xu,4,1,0.25
+23,Aapo Hyvarinen,2,1,0.5
+24,Hiroshi Morioka,2,1,0.5
+25,Matthias W Seeger,3,1,0.3333333333333333
+26,David Salinas,3,1,0.3333333333333333
+27,Valentin Flunkert,3,1,0.3333333333333333
+28,Olivier Bachem,4,1,0.25
+29,Mario Lucic,4,1,0.25
+30,Hamed Hassani,4,1,0.25
+31,Andreas Krause,4,1,0.25
+32,Sung-Soo Ahn,3,1,0.3333333333333333
+33,Michael Chertkov,3,1,0.3333333333333333
+34,Jinwoo Shin,3,1,0.3333333333333333
+35,Jason S Hartford,3,1,0.3333333333333333
+36,James R Wright,3,1,0.3333333333333333
+37,Kevin Leyton-Brown,3,1,0.3333333333333333
+38,Ofir David,3,1,0.3333333333333333
+39,Shay Moran,3,1,0.3333333333333333
+40,Amir Yehudayoff,3,1,0.3333333333333333
+41,Jimmy Ba,5,1,0.2
+42,Geoffrey E Hinton,5,1,0.2
+43,Volodymyr Mnih,5,1,0.2
+44,Joel Z Leibo,5,1,0.2
+45,Catalin Ionescu,5,1,0.2
+46,Tim van Erven,2,1,0.5
+47,Wouter M Koolen,2,1,0.5
+48,Marco Fraccaro,4,1,0.25
+49,Søren Kaae Sønderby,4,1,0.25
+50,Ulrich Paquet,4,1,0.25
+51,Ole Winther,4,1,0.25
+52,Jean-Bastien Grill,3,1,0.3333333333333333
+53,Michal Valko,3,1,0.3333333333333333
+54,Remi Munos,3,1,0.3333333333333333
+55,Daniel Neil,3,1,0.3333333333333333
+56,Michael Pfeiffer,3,1,0.3333333333333333
+57,Shih-Chii Liu,3,1,0.3333333333333333
+58,Ji Xu,3,1,0.3333333333333333
+59,Daniel Hsu,3,1,0.3333333333333333
+60,Adrian Maleki,3,1,0.3333333333333333
+61,Rong Ge,3,1,0.3333333333333333
+62,Jason Lee,3,1,0.3333333333333333
+63,Tengyu Ma,3,1,0.3333333333333333
+64,Emmanuel Abbe,2,1,0.5
+65,Colin Sandon,2,1,0.5
+66,Shinji Ito,2,1,0.5
+67,Ryohei Fujimaki,2,1,0.5
+68,Felix X Yu,5,1,0.2
+69,Ananda Theertha Suresh,5,1,0.2
+70,Krzysztof M Choromanski,5,1,0.2
+71,Daniel N Holtmann-Rice,5,1,0.2
+72,Sanjiv Kumar,5,1,0.2
+73,Tianfan Xue,4,1,0.25
+74,Jiajun Wu,4,1,0.25
+75,Katherine Bouman,4,1,0.25
+76,Bill Freeman,4,1,0.25
+77,Aaron Schein,3,1,0.3333333333333333
+78,Hanna Wallach,3,1,0.3333333333333333
+79,Mingyuan Zhou,3,1,0.3333333333333333
+80,Gao Huang,6,1,0.16666666666666666
+81,Chuan Guo,6,1,0.16666666666666666
+82,Matt J Kusner,6,1,0.16666666666666666
+83,Yu Sun,6,1,0.16666666666666666
+84,Fei Sha,6,1,0.16666666666666666
+85,Kilian Q Weinberger,6,1,0.16666666666666666
+86,Risi Kondor,2,1,0.5
+87,Horace Pan,2,1,0.5
+88,Moontae Lee,3,1,0.3333333333333333
+89,Seok Hyun Jin,3,1,0.3333333333333333
+90,David Mimno,3,1,0.3333333333333333
+91,Yiming Ying,3,1,0.3333333333333333
+92,Longyin Wen,3,1,0.3333333333333333
+93,Siwei Lyu,3,1,0.3333333333333333
+94,Vladimir Golkov,7,1,0.14285714285714285
+95,Marcin J Skwark,7,1,0.14285714285714285
+96,Antonij Golkov,7,1,0.14285714285714285
+97,Alexey Dosovitskiy,7,1,0.14285714285714285
+98,Thomas Brox,7,1,0.14285714285714285
+99,Jens Meiler,7,1,0.14285714285714285
+100,Daniel Cremers,7,1,0.14285714285714285
+101,Kenji Kawaguchi,1,1,1.0
+102,Ohad Shamir,1,1,1.0
+103,Christopher B Choy,4,1,0.25
+104,Manmohan Chandraker,4,1,0.25
+105,JunYoung Gwak,4,1,0.25
+106,Silvio Savarese,4,1,0.25
+107,Damien Scieur,3,1,0.3333333333333333
+108,Alexandre d'Aspremont,3,1,0.3333333333333333
+109,Francis Bach,3,1,0.3333333333333333
+110,Pulkit Agrawal,5,1,0.2
+111,Ashvin V Nair,5,1,0.2
+112,Pieter Abbeel,5,1,0.2
+113,Jitendra Malik,5,1,0.2
+114,Sergey Levine,5,1,0.2
+115,Dan Garber,3,1,0.3333333333333333
+116,Dan Garber,3,1,0.3333333333333333
+117,Ofer Meshi,3,1,0.3333333333333333
+118,Scott E Reed,6,1,0.16666666666666666
+119,Zeynep Akata,6,1,0.16666666666666666
+120,Santosh Mohan,6,1,0.16666666666666666
+121,Samuel Tenka,6,1,0.16666666666666666
+122,Bernt Schiele,6,1,0.16666666666666666
+123,Honglak Lee,6,1,0.16666666666666666
+124,Vitaly Feldman,1,1,1.0
+125,Tim Salimans,2,1,0.5
+126,Diederik P Kingma,2,1,0.5
+127,Jost Tobias Springenberg,4,1,0.25
+128,Aaron Klein,4,1,0.25
+129,Stefan Falkner,4,1,0.25
+130,Frank Hutter,4,1,0.25
+131,Wittawat Jitkrittum,4,1,0.25
+132,Zoltán Szabó,4,1,0.25
+133,Kacper P Chwialkowski,4,1,0.25
+134,Arthur Gretton,4,1,0.25
+135,Mark K Ho,5,1,0.2
+136,Michael Littman,5,1,0.2
+137,James MacGlashan,5,1,0.2
+138,Fiery Cushman,5,1,0.2
+139,Joseph L Austerweil,5,1,0.2
+140,Been Kim,3,1,0.3333333333333333
+141,Oluwasanmi Koyejo,3,1,0.3333333333333333
+142,Rajiv Khanna,3,1,0.3333333333333333
+143,Matthew Chalk,3,1,0.3333333333333333
+144,Olivier Marre,3,1,0.3333333333333333
+145,Gasper Tkacik,3,1,0.3333333333333333
+146,Dmitry Krotov,2,1,0.5
+147,John J. Hopfield,2,1,0.5

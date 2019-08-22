@@ -1,0 +1,56 @@
+,name,author_number,total,contribution
+0,Oliver B Kroemer,2,1,0.5
+1,Jan R Peters,2,1,0.5
+2,Guy Van den Broeck,1,1,1.0
+3,Yee Whye Teh,3,1,0.3333333333333333
+4,Charles Blundell,3,1,0.3333333333333333
+5,Lloyd T Elliott,3,1,0.3333333333333333
+6,Ardavan Saeedi,2,1,0.5
+7,Alexandre Bouchard-Côté,2,1,0.5
+8,David Mcallester,2,1,0.5
+9,Joseph Keshet,2,1,0.5
+10,Zhen James Xiang,3,1,0.3333333333333333
+11,Hao Xu,3,1,0.3333333333333333
+12,Peter J Ramadge,3,1,0.3333333333333333
+13,Po-Ling Loh,2,1,0.5
+14,Martin J Wainwright,2,1,0.5
+15,Animashree Anandkumar,3,1,0.3333333333333333
+16,Vincent Tan,3,1,0.3333333333333333
+17,Alan S Willsky,3,1,0.3333333333333333
+18,Philipp Krähenbühl,2,1,0.5
+19,Vladlen Koltun,2,1,0.5
+20,Nicolò Cesa-Bianchi,2,1,0.5
+21,Ohad Shamir,2,1,0.5
+22,Mark Schmidt,3,1,0.3333333333333333
+23,Nicolas Le Roux,3,1,0.3333333333333333
+24,Francis Bach,3,1,0.3333333333333333
+25,Samory Kpotufe,1,1,1.0
+26,David R Karger,3,1,0.3333333333333333
+27,Sewoong Oh,3,1,0.3333333333333333
+28,Devavrat Shah,3,1,0.3333333333333333
+29,Jacob D Abernethy,2,1,0.5
+30,Rafael M Frongillo,2,1,0.5
+31,Duy Q Vu,4,1,0.25
+32,Arthur Asuncion,4,1,0.25
+33,David Hunter,4,1,0.25
+34,Padhraic Smyth,4,1,0.25
+35,Dan Feldman,3,1,0.3333333333333333
+36,Matthew Faulkner,3,1,0.3333333333333333
+37,Andreas Krause,3,1,0.3333333333333333
+38,Michael Shindler,3,1,0.3333333333333333
+39,Alex Wong,3,1,0.3333333333333333
+40,Adam W Meyerson,3,1,0.3333333333333333
+41,Jakob H Macke,6,1,0.16666666666666666
+42,Lars Buesing,6,1,0.16666666666666666
+43,John P Cunningham,6,1,0.16666666666666666
+44,Byron M Yu,6,1,0.16666666666666666
+45,Krishna V Shenoy,6,1,0.16666666666666666
+46,Maneesh Sahani,6,1,0.16666666666666666
+47,Salah Rifai,5,1,0.2
+48,Yann N Dauphin,5,1,0.2
+49,Pascal Vincent,5,1,0.2
+50,Yoshua Bengio,5,1,0.2
+51,Xavier Muller,5,1,0.2
+52,Flavio Chierichetti,3,1,0.3333333333333333
+53,Jon Kleinberg,3,1,0.3333333333333333
+54,David Liben-Nowell,3,1,0.3333333333333333
